@@ -1,0 +1,45 @@
+.logo{
+	display: inline-block;
+	margin-top: 30px;
+	margin-right: 70px;
+	margin-left: 20px;
+	vertical-align: middle;
+}
+.navi{
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 20px;
+	margin-top: 30px;
+}
+.navi-li{
+	display: inline-block;
+	margin-right: 50px;
+}
+.img{
+	margin-right: 600px ;
+}
+
+.head{
+	background-color: #00e6e6
+;
+padding-bottom: 30px;
+}
+.text-block{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 130px;
+	font-size: 18px;
+	background-color: blue;
+}
+.image-block{
+	vertical-align: top;
+	width: 800px;
+}
+ 
+.section{
+    background-color: #a3a375
+;
+}
+.color{
+	color: yellow;
+}
