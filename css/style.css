@@ -24,22 +24,44 @@
 ;
 padding-bottom: 30px;
 }
-.text-block{
-	display: inline-block;
-	vertical-align: top;
-	margin-left: 130px;
-	font-size: 18px;
-	background-color: blue;
-}
 .image-block{
 	vertical-align: top;
-	width: 800px;
+	width: 650px;
+	margin-left: 90px;
+	height: 450px;
 }
  
 .section{
-    background-color: #a3a375
+    background-color: #80ffff
 ;
 }
 .color{
-	color: yellow;
+	color: #FF5000;
+}
+.dzieba {
+	margin-left: 90px;
+	font-size: 14px;
+	background-color: white;
+	font-weight: normal;
+	color: #00cca3;
+	padding-right: 180px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 2px;
+}
+.iphone{
+	display: inline-block;
+	margin-left: 70px;
+	margin-top: 130px;
+	float: left;
+	width: 180px;
+	padding-top: 1px;
+}
+/*.aqcia {
+	display: inline-block;
+    margin-left: 1px;
+    margin-top: 70px;
+}*/
+.cover {
+	display: inline-block;
 }
